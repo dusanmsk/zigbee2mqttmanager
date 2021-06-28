@@ -10,7 +10,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <vaadin.version>14.1.17</vaadin.version>
+        <vaadin.version>14.6.2</vaadin.version>
     </properties>
 
     <modules>
